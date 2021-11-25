@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# MedisTree.
+# Medis***Tree*.**
 
 A one-stop consulting service for academic purposes. We aid researchers and
 students from, medical science, dentistry, psychology, and epidemiology.
