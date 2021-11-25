@@ -14,20 +14,20 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(47, 47, 65, 0); }
+  -webkit-tap-highlight-color: rgba(46, 52, 64, 0); }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: Nunito, Arial, sans-serif, -apple-system;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #ffffff; }
+  background-color: #f1f3f7; }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important; }
@@ -4053,13 +4053,13 @@ a {
 
 p {
   line-height: 26px;
-  color: #5C5A5A;
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  color: #5b4252;
+  font-family: Nunito, Arial, sans-serif, -apple-system;
   margin-bottom: 20px; }
 
 h1 {
   font-size: 24px;
-  font-family: "Playfair Display", serif, -apple-system;
+  font-family: "Maven Pro", sans-serif, -apple-system;
   line-height: 1.2;
   margin-bottom: 20px; }
   @media (min-width: 768px) {
@@ -4068,7 +4068,7 @@ h1 {
       line-height: 1.2; } }
 h2 {
   font-size: 20px;
-  font-family: "Playfair Display", serif, -apple-system;
+  font-family: "Maven Pro", sans-serif, -apple-system;
   line-height: 1.4;
   margin-bottom: 10px; }
   @media (min-width: 768px) {
@@ -4100,11 +4100,11 @@ ol {
 
 .header {
   color: #458183;
-  background-color: #ffffff;
+  background-color: #f6f7fa;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid #f6f7ff;
+  border-bottom: 1px solid #eceff4;
   padding: 10px 0px; }
   .header .container {
     display: flex;
@@ -4133,9 +4133,9 @@ ol {
         flex-direction: row;
         align-items: center; } }
   .footer .footer-title {
-    color: #ffffff;
+    color: #f1f3f7;
     font-size: 1.3rem;
-    font-family: "Playfair Display", serif, -apple-system;
+    font-family: "Maven Pro", sans-serif, -apple-system;
     font-weight: bold;
     margin-bottom: 10px; }
     @media (min-width: 576px) {
@@ -4146,10 +4146,10 @@ ol {
     margin: 0;
     padding: 0; }
     .footer ul li {
-      color: #ffffff;
+      color: #f1f3f7;
       font-size: 1rem; }
       .footer ul li a {
-        color: #ffffff;
+        color: #f1f3f7;
         text-decoration: none;
         padding: 12px 14px 12px 0;
         display: block; }
@@ -4177,7 +4177,7 @@ ol {
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
   background: #336062;
-  color: #ffffff;
+  color: #f1f3f7;
   padding-top: 15px;
   padding-bottom: 15px; }
   @media (min-width: 768px) {
@@ -4282,7 +4282,7 @@ ol {
         animation-delay: 0.6s; }
   .main-menu-mobile ul {
     font-size: 30px;
-    font-family: "Playfair Display", serif, -apple-system;
+    font-family: "Maven Pro", sans-serif, -apple-system;
     text-align: center;
     list-style: none;
     padding: 0;
@@ -4296,7 +4296,7 @@ ol {
       .main-menu-mobile ul li a {
         display: block;
         position: relative;
-        color: #ffffff;
+        color: #f6f7fa;
         text-decoration: none;
         overflow: hidden; }
         .main-menu-mobile ul li a:hover {
@@ -4346,20 +4346,19 @@ ol {
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.025em;
-  color: #ffffff;
+  color: #f6f7fa;
   text-decoration: none;
   -webkit-transition: all 0.15s ease;
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #57a2a4;
-    transform: translateY(-1px);
+    background-color: #bf616a;
     text-decoration: none; }
 
 .call {
   position: relative;
   overflow: hidden;
-  background-color: #f6f7ff;
+  background-color: #eceff4;
   border-radius: 4px;
   width: 100%;
   display: flex;
@@ -4378,7 +4377,7 @@ ol {
   .call .call-box-bottom {
     flex: auto;
     padding: 20px;
-    border-top: 1px solid #dde0ff; }
+    border-top: 1px solid #dce1eb; }
     @media (min-width: 576px) {
       .call .call-box-bottom {
         flex: 0 0 auto;
@@ -4391,7 +4390,7 @@ ol {
   .call strong {
     font-weight: bold; }
   .call svg {
-    fill: white;
+    fill: #faf2f3;
     position: absolute;
     bottom: -9px;
     right: 0;
@@ -4402,14 +4401,15 @@ ol {
         width: 120px;
         height: 120px; } }
 .title {
-  color: #2f2f41;
+  color: #2e3440;
   font-size: 48px;
   line-height: 1.2; }
   @media (min-width: 992px) {
     .title {
       font-size: 50px; } }
 .content a {
-  text-decoration: underline; }
+  text-decoration: underline;
+  font-width: bold; }
 
 .content img {
   max-width: 100%;
@@ -4418,18 +4418,20 @@ ol {
   margin-bottom: 20px; }
 
 .content strong {
-  font-width: bold; }
+  font-width: bold;
+  color: #458183; }
 
 .content em {
-  font-style: italic; }
+  font-style: italic;
+  color: #bf616a; }
 
 .content p {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: Nunito, Arial, sans-serif, -apple-system;
   line-height: 1.56;
-  color: #5C5A5A; }
+  color: #5b4252; }
 
 .content h1 {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: Nunito, Arial, sans-serif, -apple-system;
   font-size: 34px;
   line-height: 1.26;
   font-weight: normal;
@@ -4437,14 +4439,14 @@ ol {
   margin-bottom: 20px; }
 
 .content h2 {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: Nunito, Arial, sans-serif, -apple-system;
   font-size: 26px;
   font-weight: normal;
   line-height: 1.4;
   margin-top: 30px; }
 
 .content h3 {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: Nunito, Arial, sans-serif, -apple-system;
   font-size: 20px;
   line-height: 1.4;
   font-weight: normal;
@@ -4469,11 +4471,11 @@ ol {
   margin-bottom: 5px;
   line-height: 1.56;
   margin-left: 20px;
-  color: #5C5A5A; }
+  color: #5b4252; }
 
 .content hr {
   border: none;
-  border-bottom: 1px solid #f6f7ff; }
+  border-bottom: 1px solid #eceff4; }
 
 .content table {
   width: 100%;
@@ -4483,19 +4485,19 @@ ol {
   .content table td {
     padding: 5px;
     vertical-align: top;
-    border-top: 1px solid #f6f7ff; }
+    border-top: 1px solid #eceff4; }
   .content table thead th {
     vertical-align: bottom;
-    border-bottom: 1px solid #f6f7ff;
+    border-bottom: 1px solid #eceff4;
     text-align: left;
     font-weight: bold; }
   .content table tbody + tbody {
-    border-top: 1px solid #f6f7ff; }
+    border-top: 1px solid #eceff4; }
 
 .content blockquote {
   padding: 0 1em;
-  color: #5C5A5A;
-  border-left: 0.25em solid #f88379; }
+  color: #5b4252;
+  border-left: 0.25em solid #bf616a; }
 
 .intro {
   display: flex;
@@ -4509,7 +4511,7 @@ ol {
       padding-top: 140px;
       padding-bottom: 140px; } }
   .intro h1 {
-    color: #2f2f41;
+    color: #2e3440;
     font-size: 42px;
     font-weight: bold;
     line-height: 1.2; }
@@ -4525,13 +4527,13 @@ ol {
     font-size: 1.2rem;
     line-height: 1.4;
     margin-bottom: 30px;
-    color: #2f2f41;
-    font-family: Helvetica, Arial, sans-serif, -apple-system; }
+    color: #2e3440;
+    font-family: Nunito, Arial, sans-serif, -apple-system; }
   .intro p {
     font-size: 1.2rem;
     font-weight: light;
     line-height: 1.5;
-    color: #5C5A5A; }
+    color: #5b4252; }
     @media (min-width: 768px) {
       .intro p {
         width: 80%; } }
@@ -4570,14 +4572,14 @@ ol {
     .intro-image-hide-mobile {
       display: block; } }
 .strip {
-  background: white;
+  background: #f6f7fa;
   background-repeat: no-repeat; }
 
 .strip-white {
-  background-color: white; }
+  background-color: #f6f7fa; }
 
 .strip-grey {
-  background-color: #f6f7ff; }
+  background-color: #eceff4; }
 
 .strip-diagonal {
   transform: skewY(5deg);
@@ -4587,16 +4589,16 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #458183, #f88379); }
+  background-image: linear-gradient(to right, #458183, #bf616a); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #458183, #f88379); }
+  background-image: linear-gradient(to bottom, #458183, #bf616a); }
 
 .strip-primary {
   background-color: #458183; }
 
 .strip-secondary {
-  background-color: #f88379; }
+  background-color: #bf616a; }
 
 .strip-diagonal-right {
   margin-top: -100px;
@@ -4620,10 +4622,10 @@ ol {
 
 .feature {
   height: 100%;
-  border: 1px solid #f6f7ff;
+  border: 1px solid #eceff4;
   border-radius: 3px;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #f6f7fa;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -4673,7 +4675,7 @@ ol {
       font-size: 22px;
       font-weight: normal; }
     .team-summary .team-meta p {
-      color: #2f2f41;
+      color: #2e3440;
       text-transform: uppercase;
       margin: 0;
       font-size: 12px;
@@ -4683,7 +4685,7 @@ ol {
     flex: 1 0 100%; }
 
 .team-summary-large {
-  background-color: #f6f7ff;
+  background-color: #eceff4;
   padding: 30px;
   border-radius: 3px; }
   .team-summary-large .team-image {
@@ -4706,7 +4708,7 @@ ol {
 body {
   font-size: 16px;
   line-height: 1.2;
-  font-family: Helvetica, Arial, sans-serif, -apple-system; }
+  font-family: Nunito, Arial, sans-serif, -apple-system; }
   @media (min-width: 768px) {
     body {
       font-size: 16px;
