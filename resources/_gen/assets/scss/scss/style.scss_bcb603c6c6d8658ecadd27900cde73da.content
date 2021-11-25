@@ -4049,6 +4049,16 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
+  font-width: bold;
+  color: #458183; }
+
+strong {
+  font-width: bold;
+  color: #bf616a; }
+
+em {
+  font-width: bold;
+  font-style: normal;
   color: #458183; }
 
 p {
@@ -4422,7 +4432,7 @@ ol {
   color: #458183; }
 
 .content em {
-  font-style: italic;
+  font-width: bold;
   color: #bf616a; }
 
 .content p {
