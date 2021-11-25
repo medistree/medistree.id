@@ -1,12 +1,17 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "name": "GitHub",
+        "link": "https://github.com/medistree",
         "image": "images/social/github.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/medistree_id",
         "image": "images/social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/medistree.id",
+        "image": "images/social/instagram.svg"
     }
 ]

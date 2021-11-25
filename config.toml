@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "MedisTree Indonesia"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -19,51 +19,51 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/medistree.png"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    desktop = "images/logo/logo.png"
+    desktop_height = "18px"
+    alt = "MedisTree - A Consulting Service"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@medistree_id"
+    meta_twitter_creator = "@medistree_id"
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'In collaboration with: <a class="zerostatic" href="https://www.zerostatic.io">zerostatic</a>'
 
 [menu]
   # Main Menu
   [[menu.main]]
     name = "Services"
     url = "/services/"
-      weight = 1
+    weight = 1
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
-      weight = 2
+    name = "Team"
+    url = "/team/"
+    weight = 2
 
   [[menu.main]]
-      name = "About"
-      url = "/about/"
-      weight = 3
+    name = "About"
+    url = "/about/"
+    weight = 3
 
   [[menu.main]]
-      name = "Contact"
-      url = "/contact/"
-      weight = 4
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
 
   # Footer Menu
   [[menu.footer]]
     name = "Home"
     url = "/"
-      weight = 1
+    weight = 1
 
   [[menu.footer]]
     name = "Contact"
     url = "/contact/"
-      weight = 2
+    weight = 4

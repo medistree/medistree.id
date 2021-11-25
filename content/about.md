@@ -1,50 +1,48 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: "About"
+date: 2021-11-25T14:40:41+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+MedisTree is a one-stop consulting service for academic purposes. Seasoned in years of
+research and academic writing, our team provides services with the utmost
+excellence. We aid researchers and students from, but not limited to, medical
+science, dentistry, psychology, and epidemiology.
 
-## Ne verba patulosque numen vix libet
+# Motivation
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+> ### Inappropriate experimental design and statistical analysis lead to irreproducible science  
+> **Eisner DA.** Reproducibility of science: Fraud, impact factors and carelessness. 2018 Jan 1.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+# Open-Science Community
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+In MedisTree, we aim to establish an open-science community to foster research
+and analysis in Indonesia, especially for the life-science domain. We believe
+that empowering the scientific community will bring a positive impact to
+collaborative research. By breaking the silos, we can better work together in a
+multidisciplinary and multicenter settings.
 
-## Postquam tamen
+# What does MedisTree do for the community?
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+We understand that issues pertaining to research and data governance in
+life-science domain is not a trivial thing to resolve. Therefore, MedisTree
+focuses on three main services to provide.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Analysis
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+MedisTree established a community support by providing data analysis service
+for life-science domain. We offer an extensive assistance on academic writing
+also a thorough statistical investigation to devise an exploratory,
+explanatory, and predictive model.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Healthcare services
+
+Investing in the healthcare industry requires a complex measures of communal
+needs. MedisTree can help business leader in healthcare services to design a
+suitable clinical pathway. Our business development consultants also provide an
+interim evaluation to yield insight from business perspective.
+
+## Data management
+
+To help the growth of open-science community, MedisTree also aids researcher in
+designing data management system. We focus our goal on good practices in data
+curation. We also help appointing an appropriate database design.
