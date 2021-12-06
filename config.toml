@@ -19,9 +19,9 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/medistree.png"
+    mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.png"
+    desktop = "images/logo/logo.svg"
     desktop_height = "18px"
     alt = "MedisTree - A Consulting Service"
 
