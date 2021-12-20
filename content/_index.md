@@ -2,8 +2,8 @@
 title: 'Homepage'
 meta_title: 'MedisTree Indonesia'
 description: "MedisTree is a one-stop consulting service for research and analysis in life-science domain"
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+intro_image: "images/illustrations/homepage.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
