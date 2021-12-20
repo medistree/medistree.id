@@ -1,6 +1,8 @@
 ---
 title: "About"
 date: 2021-11-25T14:40:41+07:00
+intro_image: "images/illustrations/team.svg"
+intro_image_absolute: true
 ---
 
 MedisTree is a one-stop consulting service for academic purposes. Seasoned in years of
@@ -10,8 +12,10 @@ science, dentistry, psychology, and epidemiology.
 
 # Motivation
 
-> ### Inappropriate experimental design and statistical analysis lead to irreproducible science  
+> ### Appropriate experimental design and statistical analysis leads to reproducible science  
 > **Eisner DA.** Reproducibility of science: Fraud, impact factors and carelessness. 2018 Jan 1.
+
+![homepage](../images/illustrations/about.svg)
 
 # Open-Science Community
 
