@@ -13,5 +13,10 @@
         "name": "Instagram",
         "link": "https://www.instagram.com/medistree.id",
         "image": "images/social/instagram.svg"
+    },
+    {
+        "name": "WhatsApp",
+        "link": "https://wa.me/6285171112214",
+        "image": "images/social/whatsapp.svg"
     }
 ]
