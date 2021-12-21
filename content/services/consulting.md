@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
+pricing: IDR 200K
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
@@ -44,4 +45,3 @@ siccatque frondes.
 Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
 formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
 semper_?
-

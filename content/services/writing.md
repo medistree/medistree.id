@@ -3,7 +3,8 @@ title: "Writing"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 4
+weight: 5
+pricing: IDR 800K
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

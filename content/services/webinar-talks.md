@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 6
+pricing: IDR 1,500K
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
