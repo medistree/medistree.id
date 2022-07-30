@@ -8,7 +8,7 @@ pricing: IDR 150K
 ---
 
 We at MedisTree provide editing and proofreading services to ensure maximum
-clarity in the content delivered
+clarity in your scientific manuscript and academic assignment.
 
 ## What motivates MedisTree to proofread?
 

@@ -7,8 +7,8 @@ weight: 3
 pricing: IDR 150K
 ---
 
-We help you translate articles from English to any language by providing you
-with a thorough translation.
+We help you translate scientific articles from and to English by providing you
+with a thorough academic translation service.
 
 ## What makes MedisTree excels at academic translation?
 

@@ -8,7 +8,7 @@ pricing: IDR 1,500K
 ---
 
 MedisTree offers high quality content and excellent speakers who can easily
-deliver what you need.
+deliver seminary talks to the wide audiences.
 
 ## Why collaborating with MedisTree?
 

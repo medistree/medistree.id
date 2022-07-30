@@ -7,8 +7,8 @@ weight: 1
 pricing: IDR 200K
 ---
 
-A consultation session is geared toward helping students and researchers in
-academia or the healthcare industry.
+Research and statistics consultancies are geared toward helping students and
+researchers in academia or the healthcare industry.
 
 ## Why consulting to MedisTree?
 
