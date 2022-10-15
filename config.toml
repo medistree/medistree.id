@@ -25,6 +25,19 @@ theme = "hugo-serif-theme"
     desktop_height = "18px"
     alt = "MedisTree - A Consulting Service"
 
+  [params.colors]
+    primary = "#458183"
+    secondary = "#bf616a"
+    black = "#2e3440"
+    white = "#f1f3f7"
+    white_bright = "f6f7fa"
+    white_offset = "#eceff4"
+    steel = "#5b4252"
+
+  [params.fonts]
+    base = "Nunito"
+    heading = "Maven Pro"
+
   [params.seo]
     meta_twitter_site = "@medistree_id"
     meta_twitter_creator = "@medistree_id"
