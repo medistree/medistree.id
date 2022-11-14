@@ -20,9 +20,9 @@ theme = "hugo-serif-theme"
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
+    mobile_height = "72px"
     desktop = "images/logo/logo.svg"
-    desktop_height = "18px"
+    desktop_height = "48px"
     alt = "MedisTree - A Consulting Service"
 
   [params.colors]
